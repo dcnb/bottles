@@ -20,9 +20,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: "Dad's Bottles at Strawser Auctions January 2022"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: "January 13 - January 24, 2022"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-Sheets is an experimental template that directly parses CSVs to create small digital collection exhibits on GitHub Pages designed for teaching digital library skills. Work in Progress!"
